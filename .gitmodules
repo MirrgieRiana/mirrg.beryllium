@@ -7,6 +7,3 @@
 [submodule "mirrg/mirrg.beryllium.struct"]
 	path = mirrg/mirrg.beryllium.struct
 	url = https://github.com/MirrgieRiana/mirrg.beryllium.struct.git
-[submodule "docs/mirrg/mirrg.beryllium.lang"]
-	path = docs/mirrg/mirrg.beryllium.lang
-	url = https://github.com/MirrgieRiana/mirrg.beryllium.lang.git
