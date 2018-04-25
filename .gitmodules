@@ -1,3 +1,9 @@
 [submodule "mirrg/mirrg.beryllium.template"]
 	path = mirrg/mirrg.beryllium.template
 	url = https://github.com/MirrgieRiana/mirrg.beryllium.template.git
+[submodule "mirrg/mirrg.beryllium.lang"]
+	path = mirrg/mirrg.beryllium.lang
+	url = https://github.com/MirrgieRiana/mirrg.beryllium.lang.git
+[submodule "mirrg/mirrg.beryllium.struct"]
+	path = mirrg/mirrg.beryllium.struct
+	url = https://github.com/MirrgieRiana/mirrg.beryllium.struct.git
