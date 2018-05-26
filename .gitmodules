@@ -13,3 +13,9 @@
 [submodule "mirrg/mirrg.beryllium.swing"]
 	path = mirrg/mirrg.beryllium.swing
 	url = https://github.com/MirrgieRiana/mirrg.beryllium.swing.git
+[submodule "mirrg/mirrg.beryllium.event"]
+	path = mirrg/mirrg.beryllium.event
+	url = https://github.com/MirrgieRiana/mirrg.beryllium.event.git
+[submodule "mirrg/mirrg.beryllium.event2"]
+	path = mirrg/mirrg.beryllium.event2
+	url = https://github.com/MirrgieRiana/mirrg.beryllium.event2.git
