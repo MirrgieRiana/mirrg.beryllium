@@ -1,0 +1,21 @@
+[submodule "projects/mirrg.beryllium.template"]
+	path = projects/mirrg.beryllium.template
+	url = https://github.com/MirrgieRiana/mirrg.beryllium.template.git
+[submodule "projects/mirrg.beryllium.swing"]
+	path = projects/mirrg.beryllium.swing
+	url = https://github.com/MirrgieRiana/mirrg.beryllium.swing.git
+[submodule "projects/mirrg.beryllium.struct"]
+	path = projects/mirrg.beryllium.struct
+	url = https://github.com/MirrgieRiana/mirrg.beryllium.struct.git
+[submodule "projects/mirrg.beryllium.lang"]
+	path = projects/mirrg.beryllium.lang
+	url = https://github.com/MirrgieRiana/mirrg.beryllium.lang.git
+[submodule "projects/mirrg.beryllium.event"]
+	path = projects/mirrg.beryllium.event
+	url = https://github.com/MirrgieRiana/mirrg.beryllium.event.git
+[submodule "projects/mirrg.beryllium.event2"]
+	path = projects/mirrg.beryllium.event2
+	url = https://github.com/MirrgieRiana/mirrg.beryllium.event2.git
+[submodule "projects/mirrg.beryllium.logging"]
+	path = projects/mirrg.beryllium.logging
+	url = https://github.com/MirrgieRiana/mirrg.beryllium.logging.git
