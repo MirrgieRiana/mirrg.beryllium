@@ -1,6 +1,6 @@
 # mirrg.beryllium
 
-Maven Repository URL: https://mirrgieriana.github.io/mirrg.beryllium/
+Maven Repository URL: https://mirrgieriana.github.io/mirrg.beryllium/maven/
 
 # ライブラリの種類
 
